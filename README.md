@@ -1,6 +1,7 @@
-# Hi there! 👋 I'm Srivas
+# Hi there! 👋 I'm Atharv Srivastava
 
 ## 🚀 About Me
+- 🏫 Currently in class 10th,soon in class 11th.
 - 💡 Passionate about AI, ML, Chess, and Tech.
 - 🎯 Currently learning AI, Python, and Software Development.
 - 📚 Exploring Web Dev, AI, and Open Source Contributions.
