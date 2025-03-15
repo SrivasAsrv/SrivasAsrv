@@ -14,6 +14,6 @@
 
 ## 📫 Connect with Me
 - Email: srivas7291as.rv@gmail.com
-- 📬 Contact me on Discord: 'srivas_as.rv'
+- 📬 Contact me on Discord:<a herf="https://discord.com/users/srivas_as.rv" 'srivas_as.rv'
 ---
 💡 *“Keep learning, keep building!”* 🚀
